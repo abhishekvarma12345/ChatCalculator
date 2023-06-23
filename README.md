@@ -29,5 +29,7 @@ For clear description of above commands:https://github.com/abhishekvarma12345/CS
 
 App demo shows resolved errors made by chatgpt.
 
+https://github.com/abhishekvarma12345/ChatCalculator/assets/53211164/3f2f9a1b-bc30-423e-b031-8ca93b22b023
+
 
 
