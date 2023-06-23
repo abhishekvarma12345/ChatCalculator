@@ -22,6 +22,10 @@ add the OpenAI API key to the `.env` file in the parent directory.
     chainlit run app.py -w
 ```
 
+## flowchart:
+![flowchart](assets/flow.drawio.png)
+
+
 For clear description of above commands:https://github.com/abhishekvarma12345/CSVquerybot
 
 App demo shows resolved errors made by chatgpt.
